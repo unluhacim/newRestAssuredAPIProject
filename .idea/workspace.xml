@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa31c3a-f57d-4e39-8980-cd13b4e52589" name="Changes" comment="Commit from Intellij">
-      <change afterPath="$PROJECT_DIR$/src/test/java/mytest/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mytest/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/mytest/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3fa31c3a-f57d-4e39-8980-cd13b4e52589" name="Changes" comment="Commit from Intellij" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -299,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740183171768</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit from Intellij">
+      <option name="closed" value="true" />
+      <created>1740544018896</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740544018896</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
