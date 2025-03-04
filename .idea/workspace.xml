@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fa31c3a-f57d-4e39-8980-cd13b4e52589" name="Changes" comment="Commit from Intellij" />
+    <list default="true" id="3fa31c3a-f57d-4e39-8980-cd13b4e52589" name="Changes" comment="Commit from Intellij">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myJson/CompareJsonFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myJson/CompareJsonFiles.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +66,7 @@
     "Application.Sample.executor": "Run",
     "Application.Toyota.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Test1.display.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/munlu/IdeaProjects/newRestAssuredAPIProject",
@@ -73,26 +78,13 @@
       <recent name="C:\Users\munlu\IdeaProjects\RestAssuredAPIProject\src\test\java\files" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex3">
+  <component name="RunManager" selected="TestNG.Test1.display">
     <configuration name="API01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.API01" />
       <module name="RestAssuredAPIProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mytest.Basics" />
-      <module name="RestAssuredAPIProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mytest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +131,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test1.display" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPIProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myJson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myJson" />
+      <option name="MAIN_CLASS_NAME" value="myJson.Test1" />
+      <option name="METHOD_NAME" value="display" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Test1.display" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.API01" />
-        <item itemvalue="Application.Basics" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740544018896</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit from Intellij">
+      <option name="closed" value="true" />
+      <created>1740699362562</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740699362562</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -10,19 +10,20 @@ import java.io.StringReader;
 
 import com.github.fge.jsonpatch.JsonPatch;
 import com.github.fge.jsonpatch.diff.JsonDiff;
+import org.testng.annotations.Test;
 
 public class CompareJsonFiles {
-      static String json1="{\n" +
-              "  \"name\": \"Chris\",\n" +
-              "  \"age\": 23,\n" +
-              "  \"city\": \"New York\"\n" +
-              "}";
+    static String json1 = "{\n" +
+            "  \"name\": \"Chris\",\n" +
+            "  \"age\": 23,\n" +
+            "  \"city\": \"New York\"\n" +
+            "}";
 
-      static String json2="{\n" +
-              "  \"name\": \"Christian\",\n" +
-              "  \"age\": 230,\n" +
-              "  \"city\": \"New Yorker new\"\n" +
-              "}";
+    static String json2 = "{\n" +
+            "  \"name\": \"Christian\",\n" +
+            "  \"age\": 230,\n" +
+            "  \"city\": \"New Yorker new\"\n" +
+            "}";
 
 
     public static void main(String[] args) throws JsonProcessingException {
